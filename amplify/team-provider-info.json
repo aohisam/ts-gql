@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tsgql-dev-131955-authRole",
+      "UnauthRoleArn": "arn:aws:iam::894923172428:role/amplify-tsgql-dev-131955-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::894923172428:role/amplify-tsgql-dev-131955-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-tsgql-dev-131955-deployment",
+      "UnauthRoleName": "amplify-tsgql-dev-131955-unauthRole",
+      "StackName": "amplify-tsgql-dev-131955",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:894923172428:stack/amplify-tsgql-dev-131955/746d9610-502e-11ed-987a-0aefc8a656bb",
+      "AmplifyAppId": "d2j5lb5yiehfqm"
+    },
+    "categories": {
+      "api": {
+        "tsgql": {}
+      }
+    }
+  }
+}
